@@ -6,3 +6,6 @@ As a project, we will attempt to develop a system that uses historic nba data, a
 Currently we will attempt to source data in the form of past nba statistics, possibly using https://github.com/MySportsFeeds
 
 We have yet to select all other tools to use for the machine learning components and modelling systems.
+
+
+test commit
