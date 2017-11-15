@@ -8,4 +8,18 @@ Currently we will attempt to source data in the form of past nba statistics, pos
 We have yet to select all other tools to use for the machine learning components and modelling systems.
 
 
-test commit
+Using the following libraries:
+
+pandas - https://github.com/pandas-dev/pandas
+SKLearn - https://github.com/scikit-learn/scikit-learn
+TensorFlow - https://github.com/tensorflow/tensorflow
+Matplotlib - https://github.com/matplotlib/matplotlib
+Scipy - https://github.com/scipy/scipy
+
+
+Initial Datasets for usage can be found here:
+https://www.kaggle.com/datasets?sortBy=relevance&group=featured&search=nba
+
+Prospective APIs to be used here:
+MySportsFeed python:
+https://github.com/MySportsFeeds/mysportsfeeds-python
