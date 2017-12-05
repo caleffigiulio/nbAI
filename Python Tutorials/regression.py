@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 dataframe = pd.read_fwf('resources/brain_body.txt')
 x_values = dataframe[['Brain']]
 y_values = dataframe[['Body']]
-
+print(dataframe)
 #train model on data 
 body_reg = linear_model.LinearRegression()
 body_reg.fit(x_values, y_values)
